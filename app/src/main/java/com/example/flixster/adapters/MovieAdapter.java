@@ -86,6 +86,8 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder>{
             // use glide to render image into ivPoster image view
             Glide.with(context)
                     .load(imageUrl)
+                    .placeholder(R.drawable.placeholder)
+                    .error(R.drawable.placeholder)
                     .into(ivPoster);
         }
     }
