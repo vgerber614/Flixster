@@ -57,7 +57,7 @@ Sifting through the information granted by the movies API was a bit of a challen
 <img src="https://github.com/vgerber614/Flixster/blob/master/walkthrough.gif" width=250><br>
 
 ### Notes
-There was a lot of new concepts being introduced such as using APIs and JSOn objects so it took a bit of getting used to!
+There was a lot of new concepts being introduced such as using APIs and JSON objects so it took a bit of getting used to!
 
 ### Open-source libraries used
 
